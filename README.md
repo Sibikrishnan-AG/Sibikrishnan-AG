@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibikrishnan</h1>
-<h3 align="center">An aspiring A.I. engineer, data science enthusiast, and contributor to the Data Analytics Club Repository!</h3>
+<h3 align="center">An aspiring A.I. engineer, data science enthusiast, and a contributor of the Data Analytics Club Curriculum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibikrishnan-ag&label=Profile%20views&color=0e75b6&style=flat" alt="sibikrishnan-ag" /> </p>
 

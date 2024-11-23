@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibikrishnan</h1>
-<h3 align="center">An aspiring A.I. engineer, data science enthusiast, and a contributor of the Data Analytics Club Curriculum</h3>
+<h3 align="center">An aspiring A.I. engineer and data science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibikrishnan-ag&label=Profile%20views&color=0e75b6&style=flat" alt="sibikrishnan-ag" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
-- 🔭 As the **Projects Director** of the **Data Analytics Club**, I lead the **Data Analytics Track (DACacademy)** and the **Data Science Track (DSAcademy)**, contributing to our **[repository](https://github.com/DACSIM)**.
+- 🔭 As the **Projects Director** of the **Data Analytics Club**, I led the **Data Analytics Track (DACacademy)** and the **Data Science Track (DSAcademy)**, contributing to our **[repository](https://github.com/DACSIM)**.
 
 - ⚡ Fun fact: **I love all things related to Outer Space exploration :O**
 

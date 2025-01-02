@@ -7,7 +7,7 @@
 <tr>
 <td>
 
-- 🌱 I’m currently learning **Solutions Architecture, Data Analysis, Machine Learning, and Deep Learning**
+- 🌱 I’m currently learning **Cloud Solutions, Data Analysis, Machine Learning, and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 

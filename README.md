@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibikrishnan</h1>
-<h3 align="center">An aspiring A.I. engineer and data science enthusiast</h3>
+<h3 align="center">Aspiring Solutions Architect passionate about AI and scalable solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibikrishnan-ag&label=Profile%20views&color=0e75b6&style=flat" alt="sibikrishnan-ag" /> </p>
 
@@ -7,13 +7,13 @@
 <tr>
 <td>
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, and Deep Learning**
+- 🌱 I’m currently learning **Solutions Architecture, Data Analysis, Machine Learning, and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
 - 🔭 As the **Projects Director** of the **Data Analytics Club**, I led the **Data Analytics Track (DACacademy)** and the **Data Science Track (DSAcademy)**, contributing to our **[repository](https://github.com/DACSIM)**.
 
-- ⚡ Fun fact: **I love all things related to Outer Space exploration :O**
+- ⚡ Fun fact: **I fine Outer Space exploration to be fascinating :O**
 
 </td>
 <td>
